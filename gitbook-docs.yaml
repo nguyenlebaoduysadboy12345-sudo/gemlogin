@@ -1,0 +1,7 @@
+# Do Syndicator tạo (Tạo GitBook cho dự án). GitBook kéo nội dung thư mục gitbook/ bằng API, không dùng Git Sync.
+site:
+  structure:
+    - type: space
+      title: "Gemlogin"
+      content:
+        directory: gitbook
